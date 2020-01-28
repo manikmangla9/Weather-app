@@ -1,0 +1,19 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manik",
+  "license": "ISC",
+  "dependencies": {
+    "@types/hbs": "^4.0.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars-helper": "0.0.12",
+    "handlebars-helpers": "^0.10.0",
+    "hbs": "^4.1.0",
+    "request": "^2.88.0"
+  }
+}
